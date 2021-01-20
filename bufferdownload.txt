@@ -1,115 +1,3 @@
-?
-INF: Start Of List Of Commands
-  ?               Print List Of Commands
-
-Controller:
-  CIS{01-FF}      Set Controller ID
-  CDS{MM/DD/YYYY} Set Controller Date
-  CTS{HH:MM:SS}   Set Controller Time (24-hrs)
-  CBS{1|0}        Set Controller Beeper {1} On, {0} Off
-  CDF{H|D}        Set Controller Tag ID Display Format {H} Hex, {D} Dec
-  CDB{1|0|S}      Set Controller Display Backlight Mode {1} On, {0} Off, {S} Saving
-  COM{1|0|R}      Set Controller Operation Mode {1} Scan, {0} Standby, {R} Reset
-  CSM{1|2|3|0}    Set Controller Sync.Mode {1} Master, {2} Sec.Master, {3} Slave, {0} Standalone
-  CSC{1|0}        Set Controller Synchronization of Cycle {1} On, {0} Off
-  CID{1|0}        Set Controller Initiation Delay {1} On, {0} Off
-  CIP{12|24}      Set Controller Input Power Mode {12} 12 Volts, {24} 24 Volts
-  CSV{VV,VV}      Set Controller Automatic Standby Activation and Deactivation Voltages (16-22,17-23) (24 Volts Input Power Mode Only)
-  CPS{SS,DD}      Set Controller Periodic Standby: {Start Hours (00-23), Duration (00-23)}
-  CIT{0-10000}    Set Controller Idling Time in Milliseconds (5 ms Increments)
-
-Alarms:
-  ACL{NN,0.0-9.0} Set Node Antenna Current Low Alarm Threshold in Amperes
-  ANH{NN,0-100}   Set Node Noise High Alarm Threshold Percent
-  ATH{512-1023}   Set Tuning Capacitance High Alarm Threshold
-  ATL{0-511}      Set Tuning Capacitance Low Alarm Threshold
-  AUD{0-3600}     Set Alarms Unique Delay in Seconds
-
-Communication:
-  CSL{bps}        Set Local Communication Port Speed
-  CTL{1|0}        Set Tags Communication To Local Port {1} On, {0} Off
-  CAL{1|0}        Set Alarms Communication To Local Port {1} On, {0} Off
-  CML{1|0}        Set Messages Communication To Local Port {1} On, {0} Off
-  CSR{bps}        Set Remote Communication Port Speed
-  CPR{A|M}        Set Remote Comm. Port Protocol {A} ASCII, {M} MODEM
-  CER{1|0}        Set Remote Comm. Port AES-256 Compliant {1} On, {0} Off
-  CRR{F|S}        Set Remote Communication Port Transfer Rate {F} Full, {S} Slow
-
-Detection:
-  DHT{1|0}        Set HDX Tag Detection {1} On, {0} Off
-  DFH{1|0}        Set FDXB Fastag Detection {1} On, {0} Off
-  DTS{1|0}        Set FDXB Tag Signal Level Detection {1} On, {0} Off
-  DTT{1|0}        Set BioTherm Tag Temperature Detection {1} On, {0} Off
-  DUM{5|1|0|D}    Set All Nodes Det.Unique Mode {5} 5 Tags, {1} 1 Tag, {0} Off, {D} Delay
-  DUD{1-43200}    Set All Nodes Detection Unique Delay in Seconds
-  DET{1|0}        Set Detection Efficiency Test {1} On, {0} Off
-  DCS{1|0|R}      Set Detection Counter {1} On, {0} Off, {R} Reset
-  DFT{45-500}     Set FDXB Detection Scan Time in Milliseconds (5 ms Increments)
-  DTD{0-1440}     Set Automatic Virtual Test Tag Single Shot Delay in Minutes
-  DVT{1|0|S}      Set VTT For All Nodes In Sequence {1} On, {0} Off, {S} Single Shot
-
-Memory:
-  MED             Download Entire Memory
-  MTD             Download Tags Memory
-  MAD             Download Alarms Memory
-  MMD             Download Messages Memory
-  MSD             Download Status Reports Memory
-  MND             Download Noise Reports Memory
-  MED{MM/DD/YYYY-MM/DD/YYYY}  Download Entire Memory From Date To Date
-  MTD{MM/DD/YYYY-MM/DD/YYYY}  Download Tags Memory From Date To Date
-  MAD{MM/DD/YYYY-MM/DD/YYYY}  Download Alarms Memory From Date To Date
-  MMD{MM/DD/YYYY-MM/DD/YYYY}  Download Messages Memory From Date To Date
-  MSD{MM/DD/YYYY-MM/DD/YYYY}  Download Status Reports Memory From Date To Date
-  MND{MM/DD/YYYY-MM/DD/YYYY}  Download Noise Reports Memory From Date To Date
-  MEW             Write Entire Memory To External Storage
-  MEE             Erase Entire Memory
-  MBD             Download Backup Tags Memory
-  MBE             Erase Backup Tags Memory
-  MVT{1|0}        Store Virtual Test Tags To Memory {1} On, {0} Off
-  MFT{1-24}       Set External Storage File Duration in Hours
-  MFN{1-99999}    Set Present External Storage File Number
-
-Network:
-  NSN{SSSS,NN}    Assign Node Serial Number SSSS to Node ID NN
-  NSP{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN} Set Primary Nodes Switching Sequence
-  NSS{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN} Set Secondary Nodes Switching Sequence
-  NRS             Reset Network
-
-Parameters:
-  RCP1            Load Custom Parameters Configuration 1
-  RCP2            Load Custom Parameters Configuration 2
-  SCP1            Save Custom Parameters Configuration 1
-  SCP2            Save Custom Parameters Configuration 2
-  RDP             Reset to Factory Default Parameters
-
-Reader Nodes:
-  NFT{A|NN}       Perform Node Full Tune {A} All Nodes, {NN} Node ID
-  NVE{NN,1-5}     Set Node NN Exciter Voltage Level (24 Volts Input Power Mode Only)
-  NTC{NN,0-1023}  Set Node NN Antenna Tuning Capacitors
-  NDT{NN,1|0}     Set Node NN Dynamic Tuning {1} On, {0} Off
-  NTP{NN,300-500} Set Node NN Dynamic Tuning Target Phase
-  NTS{NN,2-63}    Set Node NN Dynamic Tuning Target Phase Deviation Threshold
-  NUM{NN,5|1|0|D} Set Node NN Det. Unique Mode {5} 5 Tags, {1} 1 Tag, {0} Off, {D} Delay
-  NUD{NN,1-43200} Set Node NN Detection Unique Delay in Seconds
-  NVL{NN,0-255}   Set Node NN Virtual Test Tag Level
-  NVT{NN,1|0|S}   Set Node NN VTT {1} On, {0} Off, {S} Single Shot
-  NBS{NN,1|0}     Set Node NN Beeper {1} On, {0} Off
-
-Reports:
-  RFV             Report Firmware Versions
-  RDT             Report Controller Date And Time
-  RNA             Report Nodes Assignment
-  RSS             Report Nodes Switching Sequence
-  RFS             Report Full Status
-  RNS             Report Noise Status
-  RMS             Report Memory Status
-  RDD             Report Diagnostic Data
-  RCS             Report Controller Settings
-  RDS             Report DOP Devices Status
-  RPT{SSSS}       Report DOP Device S/N SSSS Ping Time
-  RND{0-1440}     Set Automatic Noise Report Delay in Minutes
-  RSD{0-1440}     Set Automatic Status Report Delay in Minutes
-INF: End Of List Of Commands
 mbd
 INF: Download Backup Tags Memory
 *TAG: 01 03 04/30/2020 10:58:29.010 3D9.1C2D25541C
@@ -2117,7 +2005,6 @@ INF: Download Backup Tags Memory
 *TAG: 01 03 05/07/2020 07:53:32.190 3D9.1C2D25541C
 *TAG: 01 01 05/07/2020 07:55:15.190 3E7.0000001D01
 *TAG: 01 01 05/07/2020 07:55:15.260 3E7.0000001D01
-
 *TAG: 01 03 05/07/2020 07:56:41.710 3DD.003D9307E2
 *TAG: 01 03 05/07/2020 07:59:32.050 3D9.1C2D25541C
 *TAG: 01 03 05/07/2020 08:05:32.020 3D9.1C2D25541C
@@ -4054,6 +3941,7 @@ INF: Download Backup Tags Memory
 *TAG: 01 03 05/13/2020 08:27:01.010 3D9.1C2D25541C
 *TAG: 01 03 05/13/2020 08:33:01.140 3D9.1C2D25541C
 *TAG: 01 01 05/13/2020 08:33:04.200 3DD.003D6748C8
+ALM: 01 03 01/20/2021 12:40:06.000 Node Noise High
 *TAG: 01 03 05/13/2020 08:39:01.030 3D9.1C2D25541C
 *TAG: 01 03 05/13/2020 08:45:01.230 3D9.1C2D25541C
 *TAG: 01 03 05/13/2020 08:51:01.090 3D9.1C2D25541C
@@ -19748,7 +19636,6 @@ INF: Download Backup Tags Memory
 *TAG: 01 03 07/14/2020 13:36:12.000 3D9.1C2D25541C
 *TAG: 01 03 07/14/2020 13:42:12.030 3D9.1C2D25541C
 *TAG: 01 03 07/14/2020 13:48:12.010 3D9.1C2D25541C
-ALM: 01 03 01/20/2021 11:40:06.000 Node Noise High
 *TAG: 01 03 07/14/2020 13:54:12.000 3D9.1C2D25541C
 *TAG: 01 03 07/14/2020 14:00:12.010 3D9.1C2D25541C
 *TAG: 01 03 07/14/2020 14:06:12.000 3D9.1C2D25541C
@@ -25037,4 +24924,5 @@ ALM: 01 03 01/20/2021 11:40:06.000 Node Noise High
 *TAG: 01 03 01/20/2021 09:31:30.020 3D9.1C2D25541C
 *TAG: 01 03 01/20/2021 10:31:30.020 3D9.1C2D25541C
 *TAG: 01 03 01/20/2021 11:31:30.000 3D9.1C2D25541C
+*TAG: 01 03 01/20/2021 12:31:30.020 3D9.1C2D25541C
 INF: Download Backup Tags Memory Complete

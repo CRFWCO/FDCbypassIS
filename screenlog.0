@@ -49172,3 +49172,1103 @@ MSG: 01 00 04/07/2021 13:05:09.000 Present External Memory File: 01_01092.log
 MSG: 01 01 04/07/2021 13:05:27.010 Node VTT Single Shot Fired
 MSG: 01 01 04/07/2021 13:05:27.050 Node VTT Test Passed
 TAG: 01 01 04/07/2021 13:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            18 %
+  Maximum Noise:                            48 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/07/2021 14:51:42.990 18,48,22,10801
+INF: End Of Noise Report
+MSG: 01 01 04/07/2021 16:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/07/2021 16:05:27.100 Node VTT Test Passed
+TAG: 01 01 04/07/2021 16:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            17 %
+  Maximum Noise:                            46 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/07/2021 17:51:42.990 17,46,22,10799
+INF: End Of Noise Report
+MSG: 01 01 04/07/2021 19:05:27.010 Node VTT Single Shot Fired
+MSG: 01 01 04/07/2021 19:05:27.050 Node VTT Test Passed
+TAG: 01 01 04/07/2021 19:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            24 %
+  Maximum Noise:                            50 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/07/2021 20:51:42.990 24,50,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/07/2021 22:05:27.010 Node VTT Single Shot Fired
+MSG: 01 01 04/07/2021 22:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/07/2021 22:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            16 %
+  Maximum Noise:                            48 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/07/2021 23:51:42.990 16,48,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 01:05:27.010 Node VTT Single Shot Fired
+MSG: 01 01 04/08/2021 01:05:27.050 Node VTT Test Passed
+TAG: 01 01 04/08/2021 01:05:27.050 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            22 %
+  Maximum Noise:                            43 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/08/2021 02:51:42.990 22,43,24,10801
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 04:05:27.020 Node VTT Single Shot Fired
+TAG: 01 01 04/08/2021 04:05:27.060 3E7.0000001D01
+MSG: 01 01 04/08/2021 04:05:27.060 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            27 %
+  Maximum Noise:                            40 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/08/2021 05:51:42.990 27,40,24,10799
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 07:05:27.050 Node VTT Single Shot Fired
+TAG: 01 01 04/08/2021 07:05:27.090 3E7.0000001D01
+MSG: 01 01 04/08/2021 07:05:27.090 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            42 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/08/2021 08:51:42.990 25,42,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 10:05:27.030 Node VTT Single Shot Fired
+TAG: 01 01 04/08/2021 10:05:27.070 3E7.0000001D01
+MSG: 01 01 04/08/2021 10:05:27.070 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            23 %
+  Maximum Noise:                            44 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/08/2021 11:51:42.990 23,44,23,10801
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               04/08/2021
+  Time:                                 11:51:56
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         791
+  Memory Used:                               1 %
+  Backup Tags Memory Count:                21952
+  Backup Tags Memory Used:                  87 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01092.log
+  Input Voltage:                          27.6 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            21.6 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          25.9 V
+  Exciter Voltage:                        19.8 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         3.8 A
+  Tuning Capacitors:                          54
+  Tuning Phase:                              387
+  Tuning Relative Phase:                       4
+  FDXB Signal Level:               207 mV (23 %)
+  Temperature:                            26.8 C
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  No Active Alarms
+SRP: 01 00 04/08/2021 11:51:56.010 2,1,276,36,791,216,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: 01 01 04/08/2021 11:51:56.010 1,1,1,5,38,23,54,4,198,259,268,0,0,0,0,0
+INF: End Of Full Status Report
+MSG: 01 00 04/08/2021 13:05:09.000 Present External Memory File: 01_01093.log
+MSG: 01 01 04/08/2021 13:05:27.010 Node VTT Single Shot Fired
+TAG: 01 01 04/08/2021 13:05:27.050 3E7.0000001D01
+MSG: 01 01 04/08/2021 13:05:27.060 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            45 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/08/2021 14:51:42.990 25,45,23,10800
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 16:05:27.030 Node VTT Single Shot Fired
+TAG: 01 01 04/08/2021 16:05:27.070 3E7.0000001D01
+MSG: 01 01 04/08/2021 16:05:27.070 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            37 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/08/2021 17:51:42.990 25,37,23,10800
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 19:05:27.030 Node VTT Single Shot Fired
+MSG: 01 01 04/08/2021 19:05:27.070 Node VTT Test Passed
+TAG: 01 01 04/08/2021 19:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            29 %
+  Maximum Noise:                            44 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/08/2021 20:51:42.990 29,44,24,10799
+INF: End Of Noise Report
+MSG: 01 01 04/08/2021 22:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/08/2021 22:05:27.100 Node VTT Test Passed
+TAG: 01 01 04/08/2021 22:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            37 %
+  Maximum Noise:                            46 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/08/2021 23:51:42.990 37,46,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 01:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/09/2021 01:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/09/2021 01:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            24 %
+  Maximum Noise:                            48 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/09/2021 02:51:42.990 24,48,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 04:05:27.040 Node VTT Single Shot Fired
+TAG: 01 01 04/09/2021 04:05:27.080 3E7.0000001D01
+MSG: 01 01 04/09/2021 04:05:27.080 Node VTT Test Passed
+TAG: 01 01 04/09/2021 04:38:24.810 3DD.003D49BDA3
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            43 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/09/2021 05:51:42.990 25,43,25,10801
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 07:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/09/2021 07:05:27.080 Node VTT Test Passed
+TAG: 01 01 04/09/2021 07:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            24 %
+  Maximum Noise:                            51 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/09/2021 08:51:42.990 24,51,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 10:05:27.020 Node VTT Single Shot Fired
+TAG: 01 01 04/09/2021 10:05:27.070 3E7.0000001D01
+MSG: 01 01 04/09/2021 10:05:27.070 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            17 %
+  Maximum Noise:                            38 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/09/2021 11:51:42.990 17,38,22,10799
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               04/09/2021
+  Time:                                 11:51:56
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         792
+  Memory Used:                               1 %
+  Backup Tags Memory Count:                21961
+  Backup Tags Memory Used:                  87 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01093.log
+  Input Voltage:                          27.6 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            20.1 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          25.9 V
+  Exciter Voltage:                        19.8 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         3.8 A
+  Tuning Capacitors:                          54
+  Tuning Phase:                              386
+  Tuning Relative Phase:                       5
+  FDXB Signal Level:               207 mV (23 %)
+  Temperature:                            29.5 C
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  No Active Alarms
+SRP: 01 00 04/09/2021 11:51:56.010 2,1,276,36,792,201,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: 01 01 04/09/2021 11:51:56.010 1,1,1,5,38,23,54,5,198,259,295,0,0,0,0,0
+INF: End Of Full Status Report
+MSG: 01 00 04/09/2021 13:05:09.000 Present External Memory File: 01_01094.log
+MSG: 01 01 04/09/2021 13:05:27.060 Node VTT Single Shot Fired
+MSG: 01 01 04/09/2021 13:05:27.110 Node VTT Test Passed
+TAG: 01 01 04/09/2021 13:05:27.110 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            37 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/09/2021 14:51:42.990 25,37,21,10801
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 16:05:27.020 Node VTT Single Shot Fired
+MSG: 01 01 04/09/2021 16:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/09/2021 16:05:27.070 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            27 %
+  Maximum Noise:                            41 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/09/2021 17:51:42.990 27,41,21,10799
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 19:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/09/2021 19:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/09/2021 19:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            17 %
+  Maximum Noise:                            41 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/09/2021 20:51:42.990 17,41,22,10801
+INF: End Of Noise Report
+MSG: 01 01 04/09/2021 22:05:27.050 Node VTT Single Shot Fired
+TAG: 01 01 04/09/2021 22:05:27.110 3E7.0000001D01
+MSG: 01 01 04/09/2021 22:05:27.120 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            26 %
+  Maximum Noise:                            48 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/09/2021 23:51:42.990 26,48,23,10800
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 01:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/10/2021 01:05:27.100 Node VTT Test Passed
+TAG: 01 01 04/10/2021 01:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            21 %
+  Maximum Noise:                            45 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/10/2021 02:51:42.990 21,45,24,10799
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 04:05:27.020 Node VTT Single Shot Fired
+TAG: 01 01 04/10/2021 04:05:27.060 3E7.0000001D01
+MSG: 01 01 04/10/2021 04:05:27.070 Node VTT Test Passed
+TAG: 01 01 04/10/2021 05:11:55.050 3DD.003D49BD66
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            20 %
+  Maximum Noise:                            38 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/10/2021 05:51:42.990 20,38,23,10801
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 07:05:27.020 Node VTT Single Shot Fired
+MSG: 01 01 04/10/2021 07:05:27.070 Node VTT Test Passed
+TAG: 01 01 04/10/2021 07:05:27.070 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            26 %
+  Maximum Noise:                            46 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/10/2021 08:51:42.990 26,46,23,10800
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 10:05:27.040 Node VTT Single Shot Fired
+TAG: 01 01 04/10/2021 10:05:27.080 3E7.0000001D01
+MSG: 01 01 04/10/2021 10:05:27.080 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            20 %
+  Maximum Noise:                            47 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/10/2021 11:51:42.990 20,47,23,10799
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               04/10/2021
+  Time:                                 11:51:56
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         793
+  Memory Used:                               1 %
+  Backup Tags Memory Count:                21970
+  Backup Tags Memory Used:                  88 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01094.log
+  Input Voltage:                          27.6 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            20.4 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          25.9 V
+  Exciter Voltage:                        19.8 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         3.8 A
+  Tuning Capacitors:                          54
+  Tuning Phase:                              388
+  Tuning Relative Phase:                       3
+  FDXB Signal Level:               171 mV (19 %)
+  Temperature:                            24.8 C
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  No Active Alarms
+SRP: 01 00 04/10/2021 11:51:56.010 2,1,276,36,793,204,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: 01 01 04/10/2021 11:51:56.010 1,1,1,5,38,19,54,3,198,259,248,0,0,0,0,0
+INF: End Of Full Status Report
+MSG: 01 00 04/10/2021 13:05:09.000 Present External Memory File: 01_01095.log
+MSG: 01 01 04/10/2021 13:05:27.030 Node VTT Single Shot Fired
+TAG: 01 01 04/10/2021 13:05:27.070 3E7.0000001D01
+MSG: 01 01 04/10/2021 13:05:27.080 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            26 %
+  Maximum Noise:                            48 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/10/2021 14:51:42.990 26,48,22,10800
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 16:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/10/2021 16:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/10/2021 16:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            27 %
+  Maximum Noise:                            45 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/10/2021 17:51:42.990 27,45,22,10801
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 19:05:27.010 Node VTT Single Shot Fired
+MSG: 01 01 04/10/2021 19:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/10/2021 19:05:27.070 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            29 %
+  Maximum Noise:                            40 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/10/2021 20:51:42.990 29,40,23,10799
+INF: End Of Noise Report
+MSG: 01 01 04/10/2021 22:05:27.010 Node VTT Single Shot Fired
+MSG: 01 01 04/10/2021 22:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/10/2021 22:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            24 %
+  Maximum Noise:                            46 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/10/2021 23:51:42.990 24,46,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 01:05:27.020 Node VTT Single Shot Fired
+MSG: 01 01 04/11/2021 01:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/11/2021 01:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            29 %
+  Maximum Noise:                            44 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/11/2021 02:51:42.990 29,44,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 04:05:27.030 Node VTT Single Shot Fired
+MSG: 01 01 04/11/2021 04:05:27.080 Node VTT Test Passed
+TAG: 01 01 04/11/2021 04:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            27 %
+  Maximum Noise:                            40 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/11/2021 05:51:42.990 27,40,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 07:05:27.030 Node VTT Single Shot Fired
+MSG: 01 01 04/11/2021 07:05:27.070 Node VTT Test Passed
+TAG: 01 01 04/11/2021 07:05:27.070 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            22 %
+  Maximum Noise:                            41 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/11/2021 08:51:42.990 22,41,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 10:05:27.020 Node VTT Single Shot Fired
+TAG: 01 01 04/11/2021 10:05:27.060 3E7.0000001D01
+MSG: 01 01 04/11/2021 10:05:27.070 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            22 %
+  Maximum Noise:                            47 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/11/2021 11:51:42.990 22,47,22,10801
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               04/11/2021
+  Time:                                 11:51:56
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         793
+  Memory Used:                               1 %
+  Backup Tags Memory Count:                21978
+  Backup Tags Memory Used:                  88 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01095.log
+  Input Voltage:                          27.7 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            18.6 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          25.9 V
+  Exciter Voltage:                        19.8 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         3.8 A
+  Tuning Capacitors:                          54
+  Tuning Phase:                              387
+  Tuning Relative Phase:                       4
+  FDXB Signal Level:               162 mV (18 %)
+  Temperature:                            26.8 C
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  No Active Alarms
+SRP: 01 00 04/11/2021 11:51:56.010 2,1,277,36,793,186,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: 01 01 04/11/2021 11:51:56.010 1,1,1,5,38,18,54,4,198,259,268,0,0,0,0,0
+INF: End Of Full Status Report
+MSG: 01 00 04/11/2021 13:05:09.000 Present External Memory File: 01_01096.log
+MSG: 01 01 04/11/2021 13:05:27.020 Node VTT Single Shot Fired
+TAG: 01 01 04/11/2021 13:05:27.070 3E7.0000001D01
+MSG: 01 01 04/11/2021 13:05:27.070 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            16 %
+  Maximum Noise:                            42 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/11/2021 14:51:42.990 16,42,21,10799
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 16:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/11/2021 16:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/11/2021 16:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            18 %
+  Maximum Noise:                            41 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/11/2021 17:51:42.990 18,41,21,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 19:05:27.040 Node VTT Single Shot Fired
+TAG: 01 01 04/11/2021 19:05:27.080 3E7.0000001D01
+MSG: 01 01 04/11/2021 19:05:27.090 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            22 %
+  Maximum Noise:                            47 %
+  Average Noise:                            23 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/11/2021 20:51:42.990 22,47,23,10800
+INF: End Of Noise Report
+MSG: 01 01 04/11/2021 22:05:27.050 Node VTT Single Shot Fired
+TAG: 01 01 04/11/2021 22:05:27.090 3E7.0000001D01
+MSG: 01 01 04/11/2021 22:05:27.090 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            52 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/11/2021 23:51:42.990 25,52,24,10801
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 01:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 01:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/12/2021 01:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            50 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/12/2021 02:51:42.990 25,50,25,10799
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 04:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 04:05:27.080 Node VTT Test Passed
+TAG: 01 01 04/12/2021 04:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            23 %
+  Maximum Noise:                            42 %
+  Average Noise:                            26 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/12/2021 05:51:42.990 23,42,26,10800
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 07:05:27.060 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 07:05:27.100 Node VTT Test Passed
+TAG: 01 01 04/12/2021 07:05:27.100 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            21 %
+  Maximum Noise:                            49 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/12/2021 08:51:42.990 21,49,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 10:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 10:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/12/2021 10:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            21 %
+  Maximum Noise:                            46 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/12/2021 11:51:42.990 21,46,22,10800
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         01
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               04/12/2021
+  Time:                                 11:51:56
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         793
+  Memory Used:                               1 %
+  Backup Tags Memory Count:                21986
+  Backup Tags Memory Used:                  88 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    01_01096.log
+  Input Voltage:                          27.7 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            17.7 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                 Yes
+  Application Firmware Version:            1.6.2
+  Input Power Version:                      24 V
+  Input Voltage:                          25.9 V
+  Exciter Voltage:                        19.8 V
+  Antenna Tuning:                          Tuned
+  Antenna Current:                         3.8 A
+  Tuning Capacitors:                          54
+  Tuning Phase:                              386
+  Tuning Relative Phase:                       5
+  FDXB Signal Level:               207 mV (23 %)
+  Temperature:                            28.9 C
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  No Active Alarms
+SRP: 01 00 04/12/2021 11:51:56.010 2,1,277,36,793,177,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: 01 01 04/12/2021 11:51:56.010 1,1,1,5,38,23,54,5,198,259,289,0,0,0,0,0
+INF: End Of Full Status Report
+MSG: 01 00 04/12/2021 13:05:09.000 Present External Memory File: 01_01097.log
+MSG: 01 01 04/12/2021 13:05:27.040 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 13:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/12/2021 13:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            26 %
+  Maximum Noise:                            42 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/12/2021 14:51:42.990 26,42,21,10800
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 16:05:27.020 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 16:05:27.060 Node VTT Test Passed
+TAG: 01 01 04/12/2021 16:05:27.060 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            21 %
+  Maximum Noise:                            40 %
+  Average Noise:                            21 %
+  Time Averaged Over:                    3:00:01
+NRP: 01 01 04/12/2021 17:51:42.990 21,40,21,10801
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 19:05:27.030 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 19:05:27.070 Node VTT Test Passed
+TAG: 01 01 04/12/2021 19:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            27 %
+  Maximum Noise:                            43 %
+  Average Noise:                            22 %
+  Time Averaged Over:                    2:59:59
+NRP: 01 01 04/12/2021 20:51:42.990 27,43,22,10799
+INF: End Of Noise Report
+MSG: 01 01 04/12/2021 22:05:27.050 Node VTT Single Shot Fired
+MSG: 01 01 04/12/2021 22:05:27.090 Node VTT Test Passed
+TAG: 01 01 04/12/2021 22:05:27.090 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            25 %
+  Maximum Noise:                            50 %
+  Average Noise:                            24 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/12/2021 23:51:42.990 25,50,24,10800
+INF: End Of Noise Report
+MSG: 01 01 04/13/2021 01:05:27.030 Node VTT Single Shot Fired
+MSG: 01 01 04/13/2021 01:05:27.080 Node VTT Test Passed
+TAG: 01 01 04/13/2021 01:05:27.080 3E7.0000001D01
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            19 %
+  Maximum Noise:                            50 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/13/2021 02:51:42.990 19,50,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/13/2021 04:05:27.010 Node VTT Single Shot Fired
+TAG: 01 01 04/13/2021 04:05:27.050 3E7.0000001D01
+MSG: 01 01 04/13/2021 04:05:27.060 Node VTT Test Passed
+INF: Start Of Noise Report
+Controller:
+  ID:                                         01
+Reader Node 01:
+  Present Noise:                            19 %
+  Maximum Noise:                            44 %
+  Average Noise:                            25 %
+  Time Averaged Over:                    3:00:00
+NRP: 01 01 04/13/2021 05:51:42.990 19,44,25,10800
+INF: End Of Noise Report
+MSG: 01 01 04/13/2021 07:05:27.060 Node VTT Single Shot Fired
+TAG: 01 01 04/13/2021 07:05:27.100 3E7.0000001D01
+MSG: 01 01 04/13/2021 07:05:27.100 Node VTT Test Passed

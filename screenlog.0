@@ -1,0 +1,1582 @@
+ALM: C0 01 07/25/2021 00:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 00:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 01:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 01:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 02:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 02:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 03:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 03:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 04:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 04:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 05:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 05:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 05:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 06:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 06:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 07:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 07:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 08:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 08:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 08:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 09:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 09:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 10:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 10:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/25/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22411
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01201.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            35.2 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/25/2021 11:46:29.010 2,5,280,36,796,352,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/25/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/25/2021 11:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 11:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 12:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 12:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 13:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 13:58:52.000 Node Removed From Sequence
+MSG: C0 00 07/25/2021 14:29:42.000 Present External Memory File: C0_01202.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 14:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 14:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 15:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 15:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 16:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 16:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 17:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 17:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 18:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 18:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 19:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 19:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 20:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 20:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 21:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 21:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/25/2021 22:58:51.990 Node Not Connected
+ALM: C0 01 07/25/2021 22:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/25/2021 23:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/25/2021 23:58:52.000 Node Not Connected
+ALM: C0 01 07/25/2021 23:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 00:58:51.990 Node Not Connected
+ALM: C0 01 07/26/2021 00:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 01:58:52.000 Node Not Connected
+ALM: C0 01 07/26/2021 01:58:52.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 02:58:51.990 Node Not Connected
+ALM: C0 01 07/26/2021 02:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 03:58:52.000 Node Not Connected
+ALM: C0 01 07/26/2021 03:58:52.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 04:58:52.000 Node Not Connected
+ALM: C0 01 07/26/2021 04:58:52.000 Node Removed From Sequence
+MSG: C0 01 07/26/2021 05:38:29.420 Node Connected
+MSG: C0 01 07/26/2021 05:38:29.420 Node Included In Switching Sequence
+MSG: C0 01 07/26/2021 05:38:29.420 Node VTT Single Shot Fired
+MSG: C0 01 07/26/2021 05:38:29.470 Node VTT Test Passed
+TAG: C0 01 07/26/2021 05:38:29.470 3E7.0000001D01
+MSG: C0 01 07/26/2021 05:38:30.700 Node Tuned
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             7 %
+  Maximum Noise:                            19 %
+  Average Noise:                             7 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 07/26/2021 05:46:16.000 7,19,7,10800
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 05:57:51.690 Node Not Connected
+ALM: C0 01 07/26/2021 05:57:51.690 Node Removed From Sequence
+MSG: C0 01 07/26/2021 06:09:38.270 Node Connected
+MSG: C0 01 07/26/2021 06:09:38.270 Node Included In Switching Sequence
+MSG: C0 01 07/26/2021 06:09:39.550 Node Tuned
+ALM: C0 01 07/26/2021 06:10:17.950 Node Not Connected
+ALM: C0 01 07/26/2021 06:10:17.960 Node Removed From Sequence
+ALM: C0 01 07/26/2021 07:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 07:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 08:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 08:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             9 %
+  Maximum Noise:                            22 %
+  Average Noise:                             7 %
+  Time Averaged Over:                    2:59:59
+NRP: C0 01 07/26/2021 08:46:15.990 9,22,7,10799
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 09:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 09:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 10:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 10:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 11:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 11:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/26/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22412
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01202.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            34.8 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/26/2021 11:46:29.010 2,5,280,36,796,348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/26/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/26/2021 12:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 12:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 13:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 13:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 14:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 14:10:17.000 Node Removed From Sequence
+MSG: C0 00 07/26/2021 14:29:42.000 Present External Memory File: C0_01203.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 15:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 15:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 16:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 16:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 17:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 17:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 18:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 18:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 19:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 19:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 20:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 20:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 20:46:16.000 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/26/2021 21:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 21:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 22:10:17.000 Node Not Connected
+ALM: C0 01 07/26/2021 22:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/26/2021 23:10:16.990 Node Not Connected
+ALM: C0 01 07/26/2021 23:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/26/2021 23:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 00:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 00:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 01:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 01:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 02:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 02:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 03:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 03:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 04:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 04:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 05:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 05:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 05:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 06:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 06:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 07:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 07:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 08:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 08:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 08:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 09:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 09:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 10:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 10:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 11:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 11:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/27/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22412
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01203.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            34.8 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/27/2021 11:46:29.010 2,5,280,36,796,348,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/27/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/27/2021 12:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 12:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 13:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 13:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 14:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 14:10:17.000 Node Removed From Sequence
+MSG: C0 00 07/27/2021 14:29:42.000 Present External Memory File: C0_01204.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 15:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 15:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 16:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 16:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 17:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 17:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 18:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 18:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 19:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 19:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 20:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 20:10:17.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/27/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/27/2021 21:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 21:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 22:10:16.990 Node Not Connected
+ALM: C0 01 07/27/2021 22:10:17.000 Node Removed From Sequence
+ALM: C0 01 07/27/2021 23:10:17.000 Node Not Connected
+ALM: C0 01 07/27/2021 23:10:17.000 Node Removed From Sequence
+MSG: C0 01 07/27/2021 23:18:48.680 Node Connected
+MSG: C0 01 07/27/2021 23:18:48.680 Node Included In Switching Sequence
+MSG: C0 01 07/27/2021 23:18:48.760 Node VTT Single Shot Fired
+MSG: C0 01 07/27/2021 23:18:48.810 Node VTT Test Passed
+TAG: C0 01 07/27/2021 23:18:48.810 3E7.0000001D01
+MSG: C0 01 07/27/2021 23:18:49.960 Node Tuned
+ALM: C0 01 07/27/2021 23:25:30.610 Node Not Connected
+ALM: C0 01 07/27/2021 23:25:30.610 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                            13 %
+  Maximum Noise:                            19 %
+  Average Noise:                            11 %
+  Time Averaged Over:                    3:00:01
+NRP: C0 01 07/27/2021 23:46:15.990 13,19,11,10801
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 00:25:30.000 Node Not Connected
+ALM: C0 01 07/28/2021 00:25:30.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 01:25:29.990 Node Not Connected
+ALM: C0 01 07/28/2021 01:25:30.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 02:25:29.990 Node Not Connected
+ALM: C0 01 07/28/2021 02:25:30.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/28/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 03:25:29.990 Node Not Connected
+ALM: C0 01 07/28/2021 03:25:30.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 04:25:30.000 Node Not Connected
+ALM: C0 01 07/28/2021 04:25:30.000 Node Removed From Sequence
+MSG: C0 01 07/28/2021 04:39:11.020 Node Connected
+MSG: C0 01 07/28/2021 04:39:11.020 Node Included In Switching Sequence
+MSG: C0 01 07/28/2021 04:39:11.090 Node VTT Single Shot Fired
+TAG: C0 01 07/28/2021 04:39:11.130 3E7.0000001D01
+MSG: C0 01 07/28/2021 04:39:11.140 Node VTT Test Passed
+MSG: C0 01 07/28/2021 04:39:12.300 Node Tuned
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             9 %
+  Maximum Noise:                            22 %
+  Average Noise:                             9 %
+  Time Averaged Over:                    2:59:59
+NRP: C0 01 07/28/2021 05:46:15.990 9,22,9,10799
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 05:49:35.150 Node Not Connected
+ALM: C0 01 07/28/2021 05:49:35.150 Node Removed From Sequence
+MSG: C0 01 07/28/2021 05:51:31.630 Node Connected
+MSG: C0 01 07/28/2021 05:51:31.630 Node Included In Switching Sequence
+MSG: C0 01 07/28/2021 05:51:32.910 Node Tuned
+ALM: C0 01 07/28/2021 06:21:14.720 Node Not Connected
+ALM: C0 01 07/28/2021 06:21:14.720 Node Removed From Sequence
+MSG: C0 01 07/28/2021 06:22:00.800 Node Connected
+MSG: C0 01 07/28/2021 06:22:00.810 Node Included In Switching Sequence
+MSG: C0 01 07/28/2021 06:22:02.080 Node Tuned
+ALM: C0 01 07/28/2021 06:22:40.490 Node Not Connected
+ALM: C0 01 07/28/2021 06:22:40.490 Node Removed From Sequence
+ALM: C0 01 07/28/2021 07:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 07:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 08:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 08:22:40.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                            37 %
+  Average Noise:                             8 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 07/28/2021 08:46:15.990 0,37,8,10800
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 09:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 09:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 10:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 10:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 11:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 11:22:40.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/28/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/28/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22414
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01204.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            34.1 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/28/2021 11:46:29.010 2,5,280,36,796,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/28/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/28/2021 12:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 12:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 13:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 13:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 14:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 14:22:40.000 Node Removed From Sequence
+MSG: C0 00 07/28/2021 14:29:42.000 Present External Memory File: C0_01205.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/28/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 15:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 15:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 16:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 16:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 17:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 17:22:40.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/28/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/28/2021 18:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 18:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 19:22:40.000 Node Not Connected
+ALM: C0 01 07/28/2021 19:22:40.000 Node Removed From Sequence
+ALM: C0 01 07/28/2021 20:22:39.990 Node Not Connected
+ALM: C0 01 07/28/2021 20:22:40.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/28/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+MSG: C0 01 07/28/2021 21:02:13.920 Node Connected
+MSG: C0 01 07/28/2021 21:02:13.920 Node Included In Switching Sequence
+MSG: C0 01 07/28/2021 21:02:13.940 Node VTT Single Shot Fired
+MSG: C0 01 07/28/2021 21:02:13.980 Node VTT Test Passed
+TAG: C0 01 07/28/2021 21:02:13.990 3E7.0000001D01
+MSG: C0 01 07/28/2021 21:02:15.200 Node Tuned
+MSG: C0 01 07/28/2021 22:00:00.050 Node VTT Single Shot Fired
+MSG: C0 01 07/28/2021 22:00:00.100 Node VTT Test Passed
+TAG: C0 01 07/28/2021 22:00:00.100 3E7.0000001D01
+ALM: C0 01 07/28/2021 22:26:56.960 Node Not Connected
+ALM: C0 01 07/28/2021 22:26:56.960 Node Removed From Sequence
+MSG: C0 01 07/28/2021 23:05:51.750 Node Connected
+MSG: C0 01 07/28/2021 23:05:51.750 Node Included In Switching Sequence
+MSG: C0 01 07/28/2021 23:05:53.030 Node Tuned
+ALM: C0 01 07/28/2021 23:36:26.050 Node Not Connected
+ALM: C0 01 07/28/2021 23:36:26.050 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                            20 %
+  Maximum Noise:                            36 %
+  Average Noise:                             9 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 07/28/2021 23:46:15.990 20,36,9,10800
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 00:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 00:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 01:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 01:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 02:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 02:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 03:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 03:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 04:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 04:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 05:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 05:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 05:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 06:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 06:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 07:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 07:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 08:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 08:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 08:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 09:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 09:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 10:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 10:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 11:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 11:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/29/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22416
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01205.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            36.3 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/29/2021 11:46:29.010 2,5,280,36,796,363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/29/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/29/2021 12:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 12:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 13:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 13:36:26.000 Node Removed From Sequence
+MSG: C0 00 07/29/2021 14:29:42.000 Present External Memory File: C0_01206.log
+ALM: C0 01 07/29/2021 14:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 14:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 15:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 15:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 16:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 16:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 17:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 17:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 18:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 18:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 19:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 19:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 20:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 20:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/29/2021 21:36:26.000 Node Not Connected
+ALM: C0 01 07/29/2021 21:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 22:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 22:36:26.000 Node Removed From Sequence
+ALM: C0 01 07/29/2021 23:36:25.990 Node Not Connected
+ALM: C0 01 07/29/2021 23:36:26.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/29/2021 23:46:15.990 0,0,0,0
+INF: End Of Noise Report
+MSG: C0 01 07/30/2021 00:04:08.890 Node Connected
+MSG: C0 01 07/30/2021 00:04:08.890 Node Included In Switching Sequence
+MSG: C0 01 07/30/2021 00:04:08.980 Node VTT Single Shot Fired
+MSG: C0 01 07/30/2021 00:04:09.030 Node VTT Test Passed
+TAG: C0 01 07/30/2021 00:04:09.030 3E7.0000001D01
+MSG: C0 01 07/30/2021 00:04:10.170 Node Tuned
+ALM: C0 01 07/30/2021 00:05:14.170 Node Not Connected
+ALM: C0 01 07/30/2021 00:05:14.170 Node Removed From Sequence
+MSG: C0 01 07/30/2021 00:10:59.780 Node Connected
+MSG: C0 01 07/30/2021 00:10:59.780 Node Included In Switching Sequence
+MSG: C0 01 07/30/2021 00:11:01.060 Node Tuned
+ALM: C0 01 07/30/2021 00:14:32.270 Node Not Connected
+ALM: C0 01 07/30/2021 00:14:32.270 Node Removed From Sequence
+MSG: C0 01 07/30/2021 00:22:54.040 Node Connected
+MSG: C0 01 07/30/2021 00:22:54.040 Node Included In Switching Sequence
+MSG: C0 01 07/30/2021 00:22:55.320 Node Tuned
+MSG: C0 01 07/30/2021 01:00:00.030 Node VTT Single Shot Fired
+TAG: C0 01 07/30/2021 01:00:00.080 3E7.0000001D01
+MSG: C0 01 07/30/2021 01:00:00.080 Node VTT Test Passed
+ALM: C0 01 07/30/2021 01:31:37.050 Node Not Connected
+ALM: C0 01 07/30/2021 01:31:37.050 Node Removed From Sequence
+ALM: C0 01 07/30/2021 02:31:36.990 Node Not Connected
+ALM: C0 01 07/30/2021 02:31:37.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                            11 %
+  Maximum Noise:                            31 %
+  Average Noise:                            11 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 07/30/2021 02:46:15.990 11,31,11,10800
+INF: End Of Noise Report
+MSG: C0 01 07/30/2021 03:09:49.070 Node Connected
+MSG: C0 01 07/30/2021 03:09:49.070 Node Included In Switching Sequence
+MSG: C0 01 07/30/2021 03:09:50.350 Node Tuned
+MSG: C0 01 07/30/2021 04:00:00.030 Node VTT Single Shot Fired
+TAG: C0 01 07/30/2021 04:00:00.070 3E7.0000001D01
+MSG: C0 01 07/30/2021 04:00:00.080 Node VTT Test Passed
+ALM: C0 01 07/30/2021 05:14:42.410 Node Not Connected
+ALM: C0 01 07/30/2021 05:14:42.420 Node Removed From Sequence
+MSG: C0 01 07/30/2021 05:27:50.920 Node Connected
+MSG: C0 01 07/30/2021 05:27:50.920 Node Included In Switching Sequence
+ALM: C0 01 07/30/2021 05:28:29.320 Node Not Connected
+ALM: C0 01 07/30/2021 05:28:29.320 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                            42 %
+  Average Noise:                            11 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 07/30/2021 05:46:15.990 0,42,11,10800
+INF: End Of Noise Report
+ALM: C0 01 07/30/2021 06:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 06:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 07:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 07:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 08:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 08:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 08:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/30/2021 09:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 09:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 10:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 10:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 11:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 11:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/30/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22419
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01206.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            36.6 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/30/2021 11:46:29.010 2,5,280,36,796,366,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/30/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/30/2021 12:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 12:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 13:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 13:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 14:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 14:28:29.000 Node Removed From Sequence
+MSG: C0 00 07/30/2021 14:29:42.000 Present External Memory File: C0_01207.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/30/2021 15:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 15:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 16:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 16:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 17:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 17:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/30/2021 18:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 18:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 19:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 19:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 20:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 20:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/30/2021 21:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 21:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 22:28:28.990 Node Not Connected
+ALM: C0 01 07/30/2021 22:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/30/2021 23:28:29.000 Node Not Connected
+ALM: C0 01 07/30/2021 23:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/30/2021 23:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 00:28:28.990 Node Not Connected
+ALM: C0 01 07/31/2021 00:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 01:28:28.990 Node Not Connected
+ALM: C0 01 07/31/2021 01:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 02:28:28.990 Node Not Connected
+ALM: C0 01 07/31/2021 02:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 02:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 03:28:29.000 Node Not Connected
+ALM: C0 01 07/31/2021 03:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 04:28:29.000 Node Not Connected
+ALM: C0 01 07/31/2021 04:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 05:28:29.000 Node Not Connected
+ALM: C0 01 07/31/2021 05:28:29.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 05:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 06:28:28.990 Node Not Connected
+ALM: C0 01 07/31/2021 06:28:29.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 07:28:29.000 Node Not Connected
+ALM: C0 01 07/31/2021 07:28:29.000 Node Removed From Sequence
+MSG: C0 01 07/31/2021 08:00:29.680 Node Connected
+MSG: C0 01 07/31/2021 08:00:29.680 Node Included In Switching Sequence
+ALM: C0 01 07/31/2021 08:01:08.080 Node Not Connected
+ALM: C0 01 07/31/2021 08:01:08.080 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 08:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 09:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 09:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 10:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 10:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 11:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 11:01:08.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 11:46:15.990 0,0,0,0
+INF: End Of Noise Report
+INF: Start Of Full Status Report
+Controller:
+  ID:                                         C0
+  Model:                               IS1001-MC
+  S/N:                                      0259
+  Date:                               07/31/2021
+  Time:                                 11:46:29
+  Last Shutdown Date:                 12/16/2020
+  Last Shutdown Time:                      13:03
+  Application Firmware Version:            1.7.0
+  Input Power Mode:                         24 V
+  Operation Mode:                           Scan
+  Synchronization Mode:               Standalone
+  Sync. of Cycle:                       Disabled
+  Beeper:                                Enabled
+  Tag ID Display Format:                     HEX
+  Display Backlight Mode:         30 Sec. Saving
+  Initiation Delay:                     Disabled
+  Auto Standby Voltages:              18 V, 19 V
+  Periodic Standby Start Time:              0:00
+  Periodic Standby Duration:            Disabled
+  Idling Time:                          Disabled
+ Alarms:
+  Tuning Cap. High Alarm Threshold:          970
+  Tuning Cap. Low Alarm Threshold:            50
+  Alarms Unique Delay:                  3600 Sec
+ Detection:
+  HDX Tag Detection:                    Disabled
+  FDXB Fastag Detection:                Disabled
+  FDXB Tag Signal Level Detection:      Disabled
+  BioTherm Tag Temperature Detection:   Disabled
+  Detection Counter Enabled:                 Yes
+  FDXB Detection Scan Time:               120 ms
+  Automatic VTT Delay:                   180 Min
+ Communication:
+  Local Port Speed:                       115200
+  Tags Communication To Local Port:      Enabled
+  Alarms Communication To Local Port:    Enabled
+  Messages Comm. To Local Port:          Enabled
+  Remote Port Speed:                      115200
+  Remote Port Protocol:                    ASCII
+  Remote Port AES-256 Compliant:        Disabled
+  Remote Port Transfer Rate:                Full
+ Configured Switching Sequence:
+  Pri. Seq.: 01,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Active Present Switching Sequence:
+  Pri. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+  Sec. Seq.: --,--,--,--,--,--,--,--,--,--,--,--
+ Memory:
+  Store Virtual Tags To Memory:          Enabled
+  External Storage File Duration:         24 Hrs
+ Reports:
+  Automatic Status Report Delay:        1440 Min
+  Automatic Noise Report Delay:          180 Min
+ Diagnostics:
+  Detection Counter:                         796
+  Memory Used:                               5 %
+  Backup Tags Memory Count:                22419
+  Backup Tags Memory Used:                  89 %
+  External Storage Status:             Connected
+  External Storage Records Buffer:             0
+  External Storage Present File:    C0_01207.log
+  Input Voltage:                          28.0 V
+  Lithium Battery Voltage:                 3.6 V
+  Temperature:                            37.1 C
+  Sync. Input Present:                       N/A
+Reader Node 01:
+ Node Status:
+  Model:                                  IS1001
+  S/N:                                      1569
+  Connected:                                  No
+ Node Settings:
+  Exciter Voltage Level:                       5
+  Dynamic Tuning:                        Enabled
+  Tuning Target Phase:                       391
+  Tuning Target Phase Deviation Threshold:     7
+  Detection Unique Mode:                   Delay
+  Detection Unique Delay:               1800 Sec
+  VTT Level:                                 128
+  Beeper:                               Disabled
+  Current Low Alarm Threshold:             1.0 A
+  Noise High Alarm Threshold:              100 %
+Active Alarms:
+  Node 01: Node Not Connected
+  Node 01: Node Removed From Sequence
+SRP: C0 00 07/31/2021 11:46:29.010 2,5,280,36,796,371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRP: C0 01 07/31/2021 11:46:29.010 0,0,0,0,0,0,0,0,0,0,0,9,11,0,0,0
+INF: End Of Full Status Report
+ALM: C0 01 07/31/2021 12:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 12:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 13:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 13:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 14:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 14:01:08.000 Node Removed From Sequence
+MSG: C0 00 07/31/2021 14:29:42.000 Present External Memory File: C0_01208.log
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 14:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 15:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 15:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 16:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 16:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 17:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 17:01:08.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 17:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 18:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 18:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 19:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 19:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 20:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 20:01:08.000 Node Removed From Sequence
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             N/A
+  Maximum Noise:                             N/A
+  Average Noise:                             N/A
+  Time Averaged Over:                        N/A
+NRP: C0 01 07/31/2021 20:46:15.990 0,0,0,0
+INF: End Of Noise Report
+ALM: C0 01 07/31/2021 21:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 21:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 22:01:07.990 Node Not Connected
+ALM: C0 01 07/31/2021 22:01:08.000 Node Removed From Sequence
+ALM: C0 01 07/31/2021 23:01:08.000 Node Not Connected
+ALM: C0 01 07/31/2021 23:01:08.000 Node Removed From Sequence

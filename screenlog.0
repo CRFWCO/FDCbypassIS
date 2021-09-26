@@ -1,0 +1,10 @@
+INF: Start Of Noise Report
+Controller:
+  ID:                                         C0
+Reader Node 01:
+  Present Noise:                             6 %
+  Maximum Noise:                            32 %
+  Average Noise:                             8 %
+  Time Averaged Over:                    3:00:00
+NRP: C0 01 09/25/2021 23:46:15.990 6,32,8,10800
+INF: End Of Noise Report
